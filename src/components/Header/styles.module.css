@@ -1,0 +1,9 @@
+.header{
+    background-color: #403e3e;
+    height: 5vh;
+}
+
+.header-title{
+    font-size: medium;
+    margin-left: 20px;
+}

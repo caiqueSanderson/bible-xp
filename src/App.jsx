@@ -1,9 +1,10 @@
-import './App.css'
+import Home from "./views/Home"
 
 export default function App() {
   return (
     <>
-      <h1>Bible XP</h1>
+      <Home />
     </>
   )
 }
+ 
